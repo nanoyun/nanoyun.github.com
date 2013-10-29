@@ -1,9 +1,22 @@
 ---
 layout: page
-title: Hello World!
+title: Nano云存储SDK简介
 tagline: Supporting tagline
 ---
+
 {% include JB/setup %}
+
+<a href="http://www.nanoyun.com" target="_blank"><image src="{{ BASE_PATH }}/assets/images/nanoyun_logo.jpg" /></a>
+
+Nano云存储是通用的大规模存储服务。开放高度可扩展的API，开发人员可轻松使用，帮助互联网企业以极其低的价格，获得可靠、安全、快速的基础存储系统。
+
+## 如何成为Nano云存储开发者？
+
+### 官网[注册账号](http://www.nanoyun.com/user/register.html)
+
+简单填写一些注册信息，开启云端的日子吧~
+
+### [登陆](http://www.nanoyun.com/user/login.html)管理中心，[点击账号设置](http://www.nanoyun.com/user/setting.html)获取APPKEY和APPSECRET
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
