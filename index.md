@@ -32,7 +32,7 @@ Nano云存储是通用的大规模存储服务。开放高度可扩展的API，�
 
 <image src="{{ BASE_PATH }}/assets/images/github.jpg" style="width:600px;"/>
 
-四、根绝SDK的文档，编写具体功能
+四、根据SDK的文档，编写具体功能
 
 [PHP开发者文档]({{ BASE_PATH }}/phpsdk.html)
 
