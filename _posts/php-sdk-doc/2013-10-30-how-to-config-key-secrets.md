@@ -26,4 +26,4 @@ tags : [配置]
 
 <img src="{{ BASE_PATH }}/assets/images/php-sdk-config.jpg" style="width:600px;" />
 
-<img src="http://borkt.img40.wal8.com/img40/257835_20120530144557/139498120641.jpg"/>
+<img src="http://borkt.img40.wal8.com/img40/257835_20120530144557/139498120641.jpg" style="width:600px;"/>
