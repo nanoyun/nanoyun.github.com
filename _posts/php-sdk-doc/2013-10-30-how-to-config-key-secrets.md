@@ -25,5 +25,3 @@ tags : [配置]
 3，前面2步获取的值，分别替换到config.php中
 
 <img src="{{ BASE_PATH }}/assets/images/php-sdk-config.jpg" style="width:600px;" />
-
-<img src="http://borkt.img40.wal8.com/img40/257835_20120530144557/139498120641.jpg" style="width:600px;"/>
